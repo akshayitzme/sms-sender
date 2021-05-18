@@ -15,7 +15,7 @@ SMS Sender coded in Python for [TextBelt]('https://textbelt.com')
 ### Installation
 - clone this repository<br>
 `git clone https://github.com/akshayitzme/sms-sender`
-- Set your api key in [config.py]('config.py')
+- Set your api key in [config.py](config.py)
 ### Usage
   `python sms-sender.py`
 ### API
