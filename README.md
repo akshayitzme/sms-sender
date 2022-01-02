@@ -1,4 +1,5 @@
-# SMS Sender
+# SMS Sender 
+<img src="https://img.shields.io/badge/bitcoin-36dxmSQiMjoc42ZLUH3AYrgtfGNLV2TWAD-blue"/>
 <img align="center" src="/ss/sms-sender.png"/>
 
 ### SMS Sender coded in Python for [TextBelt](https://textbelt.com)
