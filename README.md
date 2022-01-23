@@ -1,6 +1,8 @@
 # SMS Sender 
-<img src="https://img.shields.io/badge/bitcoin-36dxmSQiMjoc42ZLUH3AYrgtfGNLV2TWAD-blue"/>
-<img align="center" src="/ss/sms-sender.png"/>
+### Support Me,
+<p>USDT [ TRON ] - TLoxE6Rs1c7RxqjRUPTRLscNpfB124t7TD </p>
+<p>BTC [ BTC ] - 18sivExKy7wBe5baYtJHaaq2TwJaRMipfG </p>
+<p>BNB [ BSC ] - 0xe5fdddb6842f877d2921d40b3e8b3ff43c572455 </p>
 
 ### SMS Sender coded in Python for [TextBelt](https://textbelt.com)
 
